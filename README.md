@@ -1,4 +1,16 @@
-# Machine-Learning-Techniques
+# ✨ Machine Learning Fundamentals
 
-If you're looking for a structured, clear, and beginner-oriented introduction to machine learning using Python, this course offers solid coverage of fundamental data science techniques and classic ML models.
-It’s ideal for curious learners who want to build foundational skills efficiently before tackling more advanced courses or hands-on projects.
+Welcome to my Machine Learning Fundamentals repository!  
+This repo includes hands-on code, algorithms, and practical examples covering key ML concepts — from basics like mean and standard deviation to advanced models like Decision Trees, KNN, and Bootstrap Aggregation.
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+
+---
