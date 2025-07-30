@@ -14,3 +14,8 @@ This repo includes hands-on code, algorithms, and practical examples covering ke
 - Scikit-learn
 
 ---
+
+🔗 Connect with Me 
+GitHub: @MohamedKalid-94
+LinkedIn: www.linkedin.com/in/mohamed-kalid-4618921a7
+Email: kalidmohamed1046@gmail.com
